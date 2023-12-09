@@ -1,3 +1,4 @@
+![logo](https://github.com/shamima-akter20/shamima-akter20/blob/main/react.png)
 <h1 align="center">Hi 👋, I'm Shamima Akter</h1>
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
 
